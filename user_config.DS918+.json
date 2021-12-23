@@ -2,17 +2,17 @@
   "extra_cmdline": {
     "vid": "0x46f4",
     "pid": "0x0001",
-    "sn": "2120R4R4RXXXX",
+    "sn": "2120R4R4RNTZA",
     "netif_num":"2",
-    "mac1": "001132E8XXXX",
-    "mac2": "001132E8XXXX"
+    "mac1": "001132E8E48A",
+    "mac2": "001132E8E489"
   },
   "synoinfo": {
     "maxdisks" : "16",
     "maxlanport" : "8",
-    "internalportcfg" : "0x3ffff",
-    "esataportcfg" : "0x0",
-    "usbportcfg" : "0"
+    "internalportcfg" : "0xf006",
+    "esataportcfg" : "0x3f9",
+    "usbportcfg" : "0xc00"
   },
   "ramdisk_copy": {},
    "extensions": []
