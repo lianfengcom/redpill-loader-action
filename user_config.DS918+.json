@@ -2,10 +2,10 @@
   "extra_cmdline": {
     "vid": "0x46f4",
     "pid": "0x0001",
-    "sn": "2120R4R4RNTZA",
+    "sn": "2120R4R4RXXXX",
     "netif_num":"2",
-    "mac1": "001132E8E48A",
-    "mac2": "001132E8E489"
+    "mac1": "001132E8XXXX",
+    "mac2": "001132E8XXXX"
   },
   "synoinfo": {
     "maxdisks" : "16",
