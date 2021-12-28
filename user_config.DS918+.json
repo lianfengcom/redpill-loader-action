@@ -10,8 +10,8 @@
   "synoinfo": {
     "maxdisks" : "16",
     "maxlanport" : "8",
-    "internalportcfg" : "0x1ffff",
-    "esataportcfg" : "0x0",
+    "internalportcfg" : "0xffff",
+    "esataportcfg" : "0x10000",
     "usbportcfg" : "0x20000"
   },
   "ramdisk_copy": {},
